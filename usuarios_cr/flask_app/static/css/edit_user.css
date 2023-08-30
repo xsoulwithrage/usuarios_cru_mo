@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+form.col-6.mx-auto {
+    max-width: 600px;
+    background-color: #fff;
+    padding: 20px;
+    margin: 40px auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2.text-center {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-group input.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn.btn-success {
+    background-color: #ffc107; /* Cambiando el color a amarillo para la actualización */
+    border: none;
+    padding: 10px 20px;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+}
+
+.btn.btn-success:hover {
+    background-color: #e0a800;
+}
