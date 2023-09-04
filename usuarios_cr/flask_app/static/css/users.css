@@ -55,7 +55,7 @@ a:hover {
 }
 
 
-/* Estilo para los enlaces en la columna de Acciones */
+
 a {
     text-decoration: none;
     color: #ffffff;
@@ -71,7 +71,7 @@ a:hover {
     background-color: #0056b3;
 }
 
-/* Puedes personalizar los colores de los botones de Show, Edit y Delete si lo prefieres */
+
 a[href*="/user/show/"] {
     background-color: #28a745;
 }
