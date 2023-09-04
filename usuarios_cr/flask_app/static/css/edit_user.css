@@ -35,7 +35,7 @@ h2.text-center {
 }
 
 .btn.btn-success {
-    background-color: #ffc107; /* Cambiando el color a amarillo para la actualización */
+    background-color: #ffc107;
     border: none;
     padding: 10px 20px;
     color: #fff;
